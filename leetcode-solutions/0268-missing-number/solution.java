@@ -1,15 +1,14 @@
 class Solution {
     public int missingNumber(int[] arr) {
         int n = arr.length;
-        int[] count = new int[n+1];
-        for(int i=0;i<n;i++){
-            count[arr[i]]++;
+        int xor=0;
+        int xorArr=0;
+        for(int num:arr){
+            xorArr^=num;
         }
-        for(int i=0;i<n;i++){
-            if(count[i]==0){
-                return i;
-            }
+        for(int i=1;i<=n;i++){
+            xor^=i;
         }
-        return n;
+        return xor^xorArr;
     }
 }
