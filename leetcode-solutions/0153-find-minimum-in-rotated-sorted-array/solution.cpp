@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int find(vector<int>& arr) {
+        int start = 0, end = arr.size() - 1;
+
+        while (start < end) {
+            int mid = start + (end - start) / 2;
+            if (arr[mid] > arr[end])
+                start = mid + 1;
+            else
+                end = mid;
+        }
+    return (start - 1 + arr.size()) % arr.size();
+    }
+    int findMin(vector<int>& arr) {
+        int n=arr.size();
+        int peak=find(arr)+1;
+        return arr[peak%n];
+    }
+};
