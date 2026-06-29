@@ -11,27 +11,15 @@
  */
 class Solution {
 public:
+    vector<int>ans;
+    void fillAns(TreeNode* root,int level){
+        if(root==nullptr)return;
+        if(level==ans.size())ans.push_back(root->val);
+        if(root->right!=nullptr)fillAns(root->right,level+1);
+        if(root->left!=nullptr)fillAns(root->left,level+1);
+    }
     vector<int> rightSideView(TreeNode* root) {
-        vector<int>ans;
-        if(root==nullptr)return ans;
-        queue<pair<TreeNode*,int>>q;//Node, position
-        map<int,int> level;//position, node value
-        q.push({root,0});
-        while(!q.empty()){
-            auto p=q.front();
-            q.pop();
-            TreeNode* mover=p.first;
-            int position=p.second;
-            if(level.find(position)==level.end()){
-                level[position]=mover->val;
-            }
-            else level[position]=mover->val;
-            if(mover->left)q.push({mover->left,position+1});
-            if(mover->right)q.push({mover->right,position+1});
-        }
-        for(auto i:level){
-            ans.push_back(i.second);
-        }
+        fillAns(root,0);
         return ans;
     }
 };
