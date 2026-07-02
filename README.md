@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aryan9-6-5/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan9-6-5/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryan9-6-5/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan9-6-5/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
