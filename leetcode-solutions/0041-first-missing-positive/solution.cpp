@@ -7,7 +7,6 @@ public:
         while(i < n){
             if(arr[i] > 0 && arr[i] <= n){
                 int correct = arr[i] - 1; 
-
                 if(arr[i] != arr[correct]){
                     swap(arr[i], arr[correct]);
                     continue;
