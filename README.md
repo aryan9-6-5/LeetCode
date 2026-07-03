@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aryan9-6-5/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aryan9-6-5/LeetCode/tree/master/0041-first-missing-positive) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryan9-6-5/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
