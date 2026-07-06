@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan9-6-5/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/aryan9-6-5/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan9-6-5/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryan9-6-5/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan9-6-5/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/aryan9-6-5/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan9-6-5/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryan9-6-5/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aryan9-6-5/LeetCode/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan9-6-5/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan9-6-5/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryan9-6-5/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aryan9-6-5/LeetCode/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan9-6-5/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryan9-6-5/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/aryan9-6-5/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/aryan9-6-5/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan9-6-5/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
