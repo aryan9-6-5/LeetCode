@@ -1,42 +1,40 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        vector<vector<int>>adj;
-        queue<pair<int,int>>q;
-        int mini=0;
-        int fresh=0;
+    int count=0;
         int n=grid.size();
         int m=grid[0].size();
+        queue<pair<int,int>>q;
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        int fresh=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]==1 ){
-                    fresh++;
-                }
-                else if(grid[i][j]==2){
+                if(grid[i][j]==2){
                     q.push({i,j});
                 }
+                else if(grid[i][j]==1)fresh++;
             }
         }
         if(fresh==0)return 0;
-        vector<pair<int,int>> directions = {{-1,0},{1,0},{0,-1},{0,1}};
+        vector<pair<int,int>>directions={{-1,0},{1,0},{0,1},{0,-1}};
         while(!q.empty() && fresh>0){
             int size=q.size();
             for(int i=0;i<size;i++){
                 auto [x,y]=q.front();
                 q.pop();
-                for(auto& dir: directions){ 
-                    int nx=x+dir.first,ny=y+dir.second;
-                    if(nx>=0 && nx<n && ny>=0 && ny<m && grid[nx][ny]==1){
-                        grid[nx][ny]=2;
+                for(auto it: directions){
+                    int dx=x+it.first;
+                    int dy=y+it.second;
+                    if(dx>=0 && dx<n && dy>=0 && dy<m && grid[dx][dy]==1){
                         fresh--;
-                        q.push({nx,ny});
+                        grid[dx][dy]=2;
+                        q.push({dx,dy});
                     }
                 }
             }
-            mini++;
+            count++;
         }
-        return fresh==0? mini: -1;
-
-
+        if(fresh>0)return -1;
+        return count;
     }
 };
