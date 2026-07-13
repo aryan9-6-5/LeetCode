@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/aryan9-6-5/LeetCode/tree/master/0185-department-top-three-salaries) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/aryan9-6-5/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
