@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/aryan9-6-5/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aryan9-6-5/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryan9-6-5/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryan9-6-5/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryan9-6-5/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -176,4 +178,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/0542-01-matrix) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryan9-6-5/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryan9-6-5/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
