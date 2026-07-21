@@ -1,5 +1,7 @@
 class Solution {
 public:
+    vector<int>dr={-1,0,1,0};
+    vector<int>dc={0,1,0,-1};
     vector<vector<int>> updateMatrix(vector<vector<int>>& grid) {
         int n=grid.size(),m=grid[0].size();
         vector<vector<int>>vis(n,vector<int>(m,0));
@@ -15,34 +17,21 @@ public:
             }
         }
         while(!q.empty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
+                int size=q.size();
                 int row = q.front().first.first;
                 int col = q.front().first.second;
                 int dist = q.front().second;
                 q.pop();
-                if(row+1<n && vis[row+1][col]==0){
-                    q.push({{row+1,col},dist+1});
-                    vis[row+1][col]=1;
-                    ans[row+1][col]=dist+1;
+                for(int i=0;i<4;i++){
+                    int nr=row+dr[i];
+                    int nc=col+dc[i];
+                    if(nr>=0 && nr<n && nc>=0 && nc<m && vis[nr][nc]==0){
+                        q.push({{nr,nc},dist+1});
+                        vis[nr][nc]=1;
+                        ans[nr][nc]=dist+1;
+                    }
                 }
-                if(row-1>=0 && vis[row-1][col]==0){
-                    q.push({{row-1,col},dist+1});
-                    vis[row-1][col]=1;
-                    ans[row-1][col]=dist+1;
-                }                
-                if(col+1<m && vis[row][col+1]==0){
-                    q.push({{row,col+1},dist+1});
-                    vis[row][col+1]=1;
-                    ans[row][col+1]=dist+1;
-                } 
-                if(col-1>=0 && vis[row][col-1]==0){
-                    q.push({{row,col-1},dist+1});
-                    vis[row][col-1]=1;
-                    ans[row][col-1]=dist+1;
-                }                 
-            }
-        }
+        }                
         return ans;
         
     }
