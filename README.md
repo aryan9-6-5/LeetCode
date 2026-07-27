@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan9-6-5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan9-6-5/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/aryan9-6-5/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan9-6-5/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryan9-6-5/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/aryan9-6-5/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/aryan9-6-5/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan9-6-5/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aryan9-6-5/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryan9-6-5/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryan9-6-5/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aryan9-6-5/LeetCode/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan9-6-5/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
