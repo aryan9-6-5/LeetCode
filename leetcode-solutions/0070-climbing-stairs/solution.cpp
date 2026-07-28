@@ -1,13 +1,13 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        vector<int> memo(n+1,-1);
-        return solve(memo,n);
-    }
-    int solve(vector<int>& memo,int n){
-        if(n<=1) return 1;
-        if(memo[n]!=-1 ) return memo[n];
-        memo[n]=solve(memo,n-1)+solve(memo,n-2);
-        return memo[n];
+        if(n<=2)return n;
+        int first=1,second=2;
+        for(int i=2;i<n;i++){
+            int next=first+second;
+            first=second;
+            second=next;
+        }
+        return second;
     }
 };
