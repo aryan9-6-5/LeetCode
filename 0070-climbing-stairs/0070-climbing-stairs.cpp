@@ -1,15 +1,13 @@
 class Solution {
-private:
-    int count(int n,vector<int>& dp){
-        if(n<=1 )return 1;
-        if(dp[n]!=-1)return dp[n];
-        return dp[n]=count(n-1,dp)+count(n-2,dp);
-    }
 public:
     int climbStairs(int n) {
-        vector<int> dp(n+1,-1);
-        dp[0]=0;
-        dp[1]=1;
-        return count(n,dp);
+        if(n<=2)return n;
+        int first=1,second=2;
+        for(int i=2;i<n;i++){
+            int next=first+second;
+            first=second;
+            second=next;
+        }
+        return second;
     }
 };
