@@ -17,8 +17,10 @@ public:
         vector<int> vis(n,-1);
         vector<int> path(n,0);
         vector<vector<int>> adj(n);
-        for(auto &it : pre){
-            adj[it[1]].push_back(it[0]);
+        for(vector<int> &a : pre){
+            int u=a[1];
+            int v=a[0];
+            adj[u].push_back(v);
         }
         for(int i=0;i<n;i++){
             if(vis[i]==-1){
