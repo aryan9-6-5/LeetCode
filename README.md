@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/aryan9-6-5/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/aryan9-6-5/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/aryan9-6-5/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/aryan9-6-5/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryan9-6-5/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aryan9-6-5/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aryan9-6-5/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/aryan9-6-5/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aryan9-6-5/LeetCode/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/aryan9-6-5/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan9-6-5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/aryan9-6-5/LeetCode/tree/master/0733-flood-fill) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/aryan9-6-5/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aryan9-6-5/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Design
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryan9-6-5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/aryan9-6-5/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aryan9-6-5/LeetCode/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/aryan9-6-5/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/aryan9-6-5/LeetCode/tree/master/0877-stone-game) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/aryan9-6-5/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aryan9-6-5/LeetCode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/aryan9-6-5/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
