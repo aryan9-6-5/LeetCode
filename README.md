@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan9-6-5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/aryan9-6-5/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/aryan9-6-5/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryan9-6-5/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/aryan9-6-5/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aryan9-6-5/LeetCode/tree/master/0877-stone-game) |
@@ -298,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan9-6-5/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aryan9-6-5/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aryan9-6-5/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
