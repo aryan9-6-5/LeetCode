@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aryan9-6-5/LeetCode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/aryan9-6-5/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/0542-01-matrix) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/aryan9-6-5/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0877-stone-game](https://github.com/aryan9-6-5/LeetCode/tree/master/0877-stone-game) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/aryan9-6-5/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryan9-6-5/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
