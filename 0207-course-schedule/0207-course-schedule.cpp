@@ -27,6 +27,7 @@ public:
                 if(dfs(i,vis,path,adj))return false;
             }
         }
+        // if(dfs(0,vis,path,adj))return false;
         return true;
     }
 };
