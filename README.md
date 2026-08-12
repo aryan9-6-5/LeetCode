@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aryan9-6-5/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan9-6-5/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryan9-6-5/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryan9-6-5/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/aryan9-6-5/LeetCode/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/aryan9-6-5/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan9-6-5/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aryan9-6-5/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/aryan9-6-5/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryan9-6-5/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryan9-6-5/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryan9-6-5/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryan9-6-5/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -313,4 +315,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan9-6-5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryan9-6-5/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
