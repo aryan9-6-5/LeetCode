@@ -4,7 +4,7 @@ public:
         int left=0,right=0;
         int n=arr.size();
         int ans=1;
-        map<int,int>hash;
+        unordered_map<int,int>hash;
         while(right<n){
             hash[arr[right]]++;
             if(hash[arr[right]]>k ){
