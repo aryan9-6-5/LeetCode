@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/aryan9-6-5/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/aryan9-6-5/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/aryan9-6-5/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/aryan9-6-5/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3310-remove-methods-from-project](https://github.com/aryan9-6-5/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Database
 |  |
