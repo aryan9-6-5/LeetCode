@@ -2,10 +2,9 @@ class Solution {
 public:
     int findCenter(vector<vector<int>>& arr) {
         int n=arr.size()+1;
+        if( n==1)return 1;
         vector<int>indegree(n+1);
-        // 0 1 3 1 1
         for( auto& a: arr){
-            //[4,2]
             indegree[a[1]]++;
             indegree[a[0]]++;
         }
