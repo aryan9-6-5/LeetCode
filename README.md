@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan9-6-5/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aryan9-6-5/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryan9-6-5/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/aryan9-6-5/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryan9-6-5/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryan9-6-5/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/aryan9-6-5/LeetCode/tree/master/3731-find-missing-elements) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aryan9-6-5/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aryan9-6-5/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/aryan9-6-5/LeetCode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/aryan9-6-5/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/aryan9-6-5/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/aryan9-6-5/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aryan9-6-5/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryan9-6-5/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/aryan9-6-5/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0997-find-the-town-judge](https://github.com/aryan9-6-5/LeetCode/tree/master/0997-find-the-town-judge) |
 | [3310-remove-methods-from-project](https://github.com/aryan9-6-5/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Database
 |  |
