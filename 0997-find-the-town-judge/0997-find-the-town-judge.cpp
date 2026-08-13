@@ -2,13 +2,13 @@ class Solution {
 public:
     int findJudge(int n, vector<vector<int>>& arr) {
         if(n==1)return 1;
-        map<int,int> hash;
+        vector<int> hash(n+1);
         for(auto& a: arr){
             hash[a[1]]++;   
             hash[a[0]]--;
         }
-        for(auto x: hash){
-            if(x.second==n-1)return x.first;
+        for(int x=1;x<=n;x++){
+            if(hash[x] == n-1)return x;
         }
         return -1;
     }
