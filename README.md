@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/aryan9-6-5/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan9-6-5/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/aryan9-6-5/LeetCode/tree/master/1563-stone-game-v) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/aryan9-6-5/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/aryan9-6-5/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryan9-6-5/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryan9-6-5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan9-6-5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryan9-6-5/LeetCode/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/aryan9-6-5/LeetCode/tree/master/1563-stone-game-v) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/aryan9-6-5/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryan9-6-5/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryan9-6-5/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aryan9-6-5/LeetCode/tree/master/0542-01-matrix) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/aryan9-6-5/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0877-stone-game](https://github.com/aryan9-6-5/LeetCode/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/aryan9-6-5/LeetCode/tree/master/1563-stone-game-v) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/aryan9-6-5/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryan9-6-5/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aryan9-6-5/LeetCode/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/aryan9-6-5/LeetCode/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
 | ------- |
